@@ -1,8 +1,8 @@
-# go-scrape
+# scrapr-go
 
 ## Description
 
-Example REST API that returns the given webpage's title, written in Go.
+Go <3 React
 
 ## Usage
 
