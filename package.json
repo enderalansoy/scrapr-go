@@ -1,8 +1,9 @@
 {
-  "name": "goscrape",
+  "name": "scrapr-go",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
+  "description": "go <3 react",
   "dependencies": {
     "axios": "^0.16.2",
     "axios-progress-bar": "^1.0.0",
